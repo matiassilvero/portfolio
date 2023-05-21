@@ -1,0 +1,50 @@
+.body{
+    background-image: 
+    url(https://c.wallhere.com/photos/97/ef/digital_art_monochrome_square_minimalism_black_background_abstract_geometry-18970.jpg!d); 
+    background-size: 100% 100%;
+    background-repeat: no-repeat;/*q no se repita*/
+    background-attachment:fixed ;
+
+    color: white;
+    text-align: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+.menu a{
+    margin-right: 2000px;
+    color: white;
+}
+
+.parrafoImagen{
+    height: 400px;
+    width: 700px;
+    display: flex;
+    justify-content: center;
+    
+    margin-left: 400px;
+}
+
+.fotoPersonal{
+    border-width: 5px;
+    border-color:darkgray;
+    border-style: solid;
+    
+    width:325px;
+    height: 400px;
+}   
+
+.aptitudes{
+    display: flex;
+    justify-content: center;
+}
+
+.contacto{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    height: 275px;
+    background: grey;
+}
